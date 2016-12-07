@@ -1,0 +1,253 @@
+{
+    "load_table": [
+        {
+            "PutRequest": {
+                "Item": {
+                	"Number": {
+                		"N": "1"
+                	}
+                }
+             }
+        },
+
+        {
+            "PutRequest": {
+                "Item": {
+                    "Number": {
+                        "N": "2"
+                    }
+                }
+             }
+        },
+
+        {
+            "PutRequest": {
+                "Item": {
+                    "Number": {
+                        "N": "3"
+                    }
+                }
+             }
+        },
+
+        {
+            "PutRequest": {
+                "Item": {
+                    "Number": {
+                        "N": "4"
+                    }
+                }
+             }
+        },
+
+        {
+            "PutRequest": {
+                "Item": {
+                    "Number": {
+                        "N": "5"
+                    }
+                }
+             }
+        },
+
+        {
+            "PutRequest": {
+                "Item": {
+                    "Number": {
+                        "N": "6"
+                    }
+                }
+             }
+        },
+
+        {
+            "PutRequest": {
+                "Item": {
+                    "Number": {
+                        "N": "7"
+                    }
+                }
+             }
+        },
+
+        {
+            "PutRequest": {
+                "Item": {
+                    "Number": {
+                        "N": "8"
+                    }
+                }
+             }
+        },
+
+        {
+            "PutRequest": {
+                "Item": {
+                    "Number": {
+                        "N": "9"
+                    }
+                }
+             }
+        },
+
+        {
+            "PutRequest": {
+                "Item": {
+                    "Number": {
+                        "N": "10"
+                    }
+                }
+             }
+        },
+
+        {
+            "PutRequest": {
+                "Item": {
+                    "Number": {
+                        "N": "11"
+                    }
+                }
+             }
+        },
+
+        {
+            "PutRequest": {
+                "Item": {
+                    "Number": {
+                        "N": "12"
+                    }
+                }
+             }
+        },
+
+        {
+            "PutRequest": {
+                "Item": {
+                    "Number": {
+                        "N": "13"
+                    }
+                }
+             }
+        },
+
+        {
+            "PutRequest": {
+                "Item": {
+                    "Number": {
+                        "N": "14"
+                    }
+                }
+             }
+        },
+
+        {
+            "PutRequest": {
+                "Item": {
+                    "Number": {
+                        "N": "15"
+                    }
+                }
+             }
+        },
+
+        {
+            "PutRequest": {
+                "Item": {
+                    "Number": {
+                        "N": "16"
+                    }
+                }
+             }
+        },
+
+        {
+            "PutRequest": {
+                "Item": {
+                    "Number": {
+                        "N": "17"
+                    }
+                }
+             }
+        },
+
+        {
+            "PutRequest": {
+                "Item": {
+                    "Number": {
+                        "N": "18"
+                    }
+                }
+             }
+        },
+
+        {
+            "PutRequest": {
+                "Item": {
+                    "Number": {
+                        "N": "19"
+                    }
+                }
+             }
+        },
+
+        {
+            "PutRequest": {
+                "Item": {
+                    "Number": {
+                        "N": "20"
+                    }
+                }
+             }
+        },
+
+        {
+            "PutRequest": {
+                "Item": {
+                    "Number": {
+                        "N": "21"
+                    }
+                }
+             }
+        },
+
+        {
+            "PutRequest": {
+                "Item": {
+                    "Number": {
+                        "N": "22"
+                    }
+                }
+             }
+        },
+
+        {
+            "PutRequest": {
+                "Item": {
+                    "Number": {
+                        "N": "23"
+                    }
+                }
+             }
+        },
+
+        {
+            "PutRequest": {
+                "Item": {
+                    "Number": {
+                        "N": "24"
+                    }
+                }
+             }
+        },
+
+        {
+            "PutRequest": {
+                "Item": {
+                    "Number": {
+                        "N": "25"
+                    }
+                }
+             }
+        }
+    ]
+}
