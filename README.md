@@ -1,4 +1,4 @@
-#MongoDB Load Generator
+# MongoDB Load Generator
 
 
 This script is intended to generate load on a MongoDB database for read, write, and deletes. 
